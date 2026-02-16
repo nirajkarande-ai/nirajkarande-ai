@@ -1,5 +1,11 @@
 Niraj Karande
-Applied Machine Learning & Decision Intelligence
+
+
+Applied Machine Learning & Decision 
+Intelligence
+
+
+
 I design robust, decision-focused machine learning systems across graph learning, causal inference, time-series modeling, and trustworthy AI.
 Core Projects
 Inductive Graph Neural Networks for Large-Scale Fraud Detection
