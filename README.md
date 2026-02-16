@@ -1,4 +1,14 @@
-## Hi there 👋
+Niraj Karande
+Applied Machine Learning & Decision Intelligence
+I design robust, decision-focused machine learning systems across graph learning, causal inference, time-series modeling, and trustworthy AI.
+Core Projects
+Inductive Graph Neural Networks for Large-Scale Fraud Detection
+Customer Lifetime Value Engine 4.0
+CausalLift: Uplift Modeling & Policy Optimization
+SentinelAI: Human-in-the-Loop Analytical Validation
+VeriRAG: Trust-Calibrated RAG with Logical Validation
+Technical Stack
+Python • SQL • PyTorch • TensorFlow • scikit-learn • Graph ML • Causal Inference • Deep Learning • Experimentation • Model Deployment
 
 <!--
 **nirajkarande-ai/nirajkarande-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
